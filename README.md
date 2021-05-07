@@ -1,2 +1,2 @@
 # ansible-role-template
-Template for new Ansible role.
+A template for new Ansible roles.
